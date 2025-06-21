@@ -5102,4 +5102,4 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		],
 		eventOnly: true,
 	}
-}};
+};
