@@ -4,6 +4,33 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 	tinkaton: {
 		tier: "OU",
 	},
+	regirock: {
+		tier: "OU",
+	},
+	heracross: {
+		tier: "OU",
+	},
+	vespiquen: {
+		tier: "OU",
+	},
+	gardevoir: {
+		tier: "OU",
+	},
+	furret: {
+		tier: "OU",
+	},
+	abomasnow: {
+		tier: "OU",
+	},
+	clodsire: {
+		tier: "OU",
+	},
+	stunfisk: {
+		tier: "OU",
+	},
+	garchomp: {
+		tier: "OU",
+	},
 	
 	
 	//DO NOT TOUCH THESE

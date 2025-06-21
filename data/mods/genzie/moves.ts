@@ -12,7 +12,22 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		type: "Rock",
 		gen: 1,
 	},
-	
+	megahorn: {
+		inherit: true,
+		gen: 1,
+	},
+	attackorder: {
+		inherit: true,
+		gen: 1,
+	},
+	defendorder: {
+		inherit: true,
+		gen: 1,
+	},
+	healorder: {
+		inherit: true,
+		gen: 1,
+	},
 	
 	//DO NOT TOUCH THESE
 	acid: {
