@@ -1,4 +1,12 @@
 export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormatsDataTable = {
+	//PUT NEW POKE MONS HERE
+	
+	tinkaton: {
+		tier: "OU",
+	},
+	
+	
+	//DO NOT TOUCH THESE
 	bulbasaur: {
 		tier: "LC",
 	},

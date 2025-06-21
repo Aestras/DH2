@@ -24,6 +24,18 @@ export const Formats: FormatList = [
 		// name: "gen8petmods",
 	},
 	{
+	name: "[Gen 1] Genzie",
+	   desc: `<b>[Gen 1] Genzie</b>: Adapting future Gen Pokemon to the Gen 1 OU metagame.`,
+	   threads: [
+			`&bullet; <a href="https://discord.com/channels/224176327186448385/1282578941915172905">Discord Thread Link</a>`,
+	   ],
+      mod: 'genzie',
+      ruleset: ['Standard', 'Data Mod'],
+		banlist: ['Uber'],
+		unbanlist: ['Tinkaton'
+					  ],
+    },
+	{
 	name: "[Gen 1] FutureProofing",
 	   desc: `<b>[Gen 1] FutureProofing</b>: Adapting Dark, Steel, and Fairy-type moves and Pokemon to the Gen 1 OU metagame.`,
 	   threads: [
