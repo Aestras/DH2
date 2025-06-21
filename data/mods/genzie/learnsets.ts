@@ -14,7 +14,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			slam: ["1M"],
 			gigatonhammer: ["1M"],
 		},
-	
+	},
 	// DO NOT TOUCH THESE
 	missingno: {
 		learnset: {
