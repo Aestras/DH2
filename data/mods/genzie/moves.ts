@@ -4,20 +4,6 @@
  */
 
 export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
-	// PUT NEW MOVES HERE PLS TY
-	
-	gigatonhammer: {
-		inherit: true,
-		category: "Physical",
-		type: "Rock",
-		gen: 1,
-	},
-	
-	
-	
-	
-	
-	// LEAVE THESE ALONE
 	acid: {
 		inherit: true,
 		secondary: {
