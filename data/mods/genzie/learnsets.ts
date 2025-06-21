@@ -1,19 +1,7 @@
 export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTable = {
 	// PUT NEW POKEMON MOVESETS HERE PLEASE THANK YOU
 	
-	tinkaton: {
-		learnset: {
-			reflect: ["1M"],
-			lightscreen: ["1M"],
-			thunderwave: ["1M"],
-			metronome: ["1M"],
-			rest: ["1M"],
-			rockslide: ["1M"],
-			swordsdance: ["1M"],
-			substitute: ["1M"],
-			slam: ["1M"],
-			gigatonhammer: ["1M"],
-		},
+
 	
 	// DO NOT TOUCH THESE
 	missingno: {
