@@ -8,7 +8,8 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	
 	gigatonhammer: {
 		inherit: true,
-		type: "rock",
+		category: "Physical",
+		type: "Rock",
 		gen: 1,
 	},
 	
@@ -103,7 +104,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 			chance: 10,
 			volatileStatus: 'flinch',
 		},
-		type: "normal",
+		type: "Normal",
 	},
 	blizzard: {
 		inherit: true,
@@ -272,7 +273,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 		secondary: null,
 		target: "normal",
-		type: "normal",
+		type: "Normal",
 	},
 	dizzypunch: {
 		inherit: true,
@@ -349,7 +350,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	gust: {
 		inherit: true,
-		type: "normal",
+		type: "Normal",
 	},
 	haze: {
 		inherit: true,
@@ -412,7 +413,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	karatechop: {
 		inherit: true,
 		critRatio: 2,
-		type: "normal",
+		type: "Normal",
 	},
 	leechseed: {
 		inherit: true,
@@ -466,7 +467,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 			},
 		},
 		target: "self",
-		type: "psychic",
+		type: "Psychic",
 	},
 	mimic: {
 		inherit: true,
@@ -644,7 +645,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 		secondary: null,
 		target: "self",
-		type: "psychic",
+		type: "Psychic",
 	},
 	rest: {
 		inherit: true,
@@ -686,7 +687,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	sandattack: {
 		inherit: true,
 		ignoreImmunity: true,
-		type: "normal",
+		type: "Normal",
 	},
 	seismictoss: {
 		inherit: true,
@@ -880,7 +881,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		},
 		secondary: null,
 		target: "self",
-		type: "normal",
+		type: "Normal",
 	},
 	superfang: {
 		inherit: true,

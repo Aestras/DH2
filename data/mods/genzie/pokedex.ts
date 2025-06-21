@@ -5,7 +5,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	tinkaton: {
 		num: 959,
 		name: "Tinkaton",
-		types: ["normal", "rock"],
+		types: ["Normal", "Rock"],
 		gender: "F",
 		baseStats: {hp: 85, atk: 75, def: 77, spa: 70, spd: 70, spe: 94},
 		abilities: {},
