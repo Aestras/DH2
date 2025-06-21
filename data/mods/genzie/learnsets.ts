@@ -81,6 +81,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			substitute: ["1M"],
 			hyperbeam: ["1M"],
 		},
+	},
 	gardevoir: {
 		learnset: {
 			growl: ["1M"],
