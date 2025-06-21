@@ -152,7 +152,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			takedown: ["1M"],
 			lowkick: ["1M"],
 			bodyslam: ["1M"],
-			icepunch: ["1M"],
 			rest: ["1M"],
 			rockslide: ["1M"],
 			swordsdance: ["1M"],
