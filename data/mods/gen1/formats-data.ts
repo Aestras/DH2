@@ -6,7 +6,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "NFE",
 	},
 	venusaur: {
-		tier: "PU",
+		tier: "NU",
 	},
 	charmander: {
 		tier: "LC",
@@ -21,7 +21,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	wartortle: {
-		tier: "NFE",
+		tier: "ZU",
 	},
 	blastoise: {
 		tier: "NU",
@@ -63,13 +63,13 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	fearow: {
-		tier: "NU",
+		tier: "PU",
 	},
 	ekans: {
 		tier: "LC",
 	},
 	arbok: {
-		tier: "ZU",
+		tier: "ZUBL",
 	},
 	pikachu: {
 		tier: "LC",
@@ -99,7 +99,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "NFE",
 	},
 	nidoking: {
-		tier: "PU",
+		tier: "NU",
 	},
 	clefairy: {
 		tier: "LC",
@@ -117,7 +117,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	wigglytuff: {
-		tier: "PU",
+		tier: "NU",
 	},
 	zubat: {
 		tier: "LC",
@@ -162,7 +162,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	golduck: {
-		tier: "PU",
+		tier: "NU",
 	},
 	mankey: {
 		tier: "LC",
@@ -174,7 +174,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	arcanine: {
-		tier: "NU",
+		tier: "PU",
 	},
 	poliwag: {
 		tier: "ZU",
@@ -186,7 +186,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "NU",
 	},
 	abra: {
-		tier: "PU",
+		tier: "ZU",
 	},
 	kadabra: {
 		tier: "UU",
@@ -228,7 +228,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "UU",
 	},
 	ponyta: {
-		tier: "LC",
+		tier: "ZU",
 	},
 	rapidash: {
 		tier: "PU",
@@ -243,7 +243,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	magneton: {
-		tier: "NU",
+		tier: "ZU",
 	},
 	farfetchd: {
 		tier: "ZU",
@@ -273,7 +273,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "OU",
 	},
 	gastly: {
-		tier: "PU",
+		tier: "PUBL",
 	},
 	haunter: {
 		tier: "UU",
@@ -285,16 +285,16 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "ZU",
 	},
 	drowzee: {
-		tier: "ZU",
+		tier: "PU",
 	},
 	hypno: {
-		tier: "UU",
+		tier: "UUBL",
 	},
 	krabby: {
 		tier: "LC",
 	},
 	kingler: {
-		tier: "PU",
+		tier: "NU",
 	},
 	voltorb: {
 		tier: "LC",
@@ -303,7 +303,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "UU",
 	},
 	exeggcute: {
-		tier: "PU",
+		tier: "NU",
 	},
 	exeggutor: {
 		tier: "OU",
@@ -330,7 +330,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "ZU",
 	},
 	rhyhorn: {
-		tier: "LC",
+		tier: "ZU",
 	},
 	rhydon: {
 		tier: "OU",
@@ -366,7 +366,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "NU",
 	},
 	scyther: {
-		tier: "ZU",
+		tier: "PU",
 	},
 	jynx: {
 		tier: "OU",
@@ -375,7 +375,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "UU",
 	},
 	magmar: {
-		tier: "ZU",
+		tier: "PU",
 	},
 	pinsir: {
 		tier: "PU",
@@ -390,7 +390,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "UU",
 	},
 	lapras: {
-		tier: "UU",
+		tier: "UUBL",
 	},
 	ditto: {
 		tier: "ZU",
@@ -411,7 +411,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "PU",
 	},
 	omanyte: {
-		tier: "ZU",
+		tier: "PU",
 	},
 	omastar: {
 		tier: "UU",
@@ -429,7 +429,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "OU",
 	},
 	articuno: {
-		tier: "UU",
+		tier: "UUBL",
 	},
 	zapdos: {
 		tier: "OU",
@@ -441,7 +441,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	dragonair: {
-		tier: "ZU",
+		tier: "PU",
 	},
 	dragonite: {
 		tier: "UU",
