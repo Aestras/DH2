@@ -61,6 +61,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			harden: ["1M"],
 			seismictoss: ["1M"],
 			doubleedge: ["1M"],
+			megahorn: ["1M"],
 		},
 	},
 	vespiquen: {
